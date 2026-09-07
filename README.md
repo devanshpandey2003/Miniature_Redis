@@ -1,4 +1,4 @@
-# mini-redis-fastapi
+# mini-redis
 
 A small Redis-like key-value store, built on FastAPI. Adds TTL/expiry,
 append-only-file persistence, WebSocket Pub/Sub, and API-key auth on top
